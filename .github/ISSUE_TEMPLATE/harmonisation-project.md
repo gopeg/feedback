@@ -9,9 +9,17 @@ assignees: ''
 
 *Describe a single harmonisation project that is used to transform one data set*
 
+# Implementation state
+
+Describe what the current state of this transformation project is (proposed / in progress / challenge / done).
+
 # Use Case Scope
 
 Provide information on the go-peg use case in which this harmonised data set would be used.
+
+# Spatial Scope / Priority Scope
+
+Use spatial scope keywords and priority dataset keywords, as well as the (national) coverage to describe the spatial scope of the source data.
 
 # Source Schema and Format
 
