@@ -41,6 +41,10 @@ Provide information on the target schema that you've used, e.g. INSPIRE. Add a l
 
 Provide information on the size of the tranformed data set.
 
+# Target Data set resources
+
+Provide links to the target data set, preferably published as a download service (Predefined / Direct access) with metadata. If the target dataset is also visible through the EDP, provide the EDP URL.
+
 # Effort / Time Spent
 
 Provide information on the amount of time you needed to create the transformation project. (in hh:mm)
