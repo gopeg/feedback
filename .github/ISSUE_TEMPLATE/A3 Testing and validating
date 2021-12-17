@@ -1,0 +1,17 @@
+From my point of view we need further input on what exactly has to be described and processed here
+
+1 Iterative data processing 
+--> Describe your target as detailed as possible
+--> Describe challenges by using the following template: https://github.com/gopeg/feedback/blob/main/.github/ISSUE_TEMPLATE/harmonisation-issue.md
+
+2	Enhancement of tools
+--> See https://github.com/halestudio/hale/issues
+--> Document which enhancement shall be undertaken, which enhancements are done
+
+3	Data published in EDP
+--> Describe process on how to achieve publishing in EDP
+--> Provide link to data within EDP
+
+5	Data Feedback collected
+--> Link to doc how feedback will be collected
+--> Link to feedback doc 
