@@ -1,0 +1,46 @@
+Please add information/comments/status on the following tasks related to your use-case.
+Feel free to add further important processing steps
+Please provide box links to relevant data, docs etc.
+
+1	Use Case Detailed Specification
+--> Link to box file 
+
+2	Datasets identified
+--> List datasets including data owner url or site url for data download
+--> Specify if the datasets are following first-level and/or second-level critieria (?)
+
+3	UC workflow definition
+--> Link to box doc (internal box)
+
+4	Dataset Quality Checks completed
+
+5	Provision of data dictionaries
+
+6	Provision of data code lists
+--> Link to box folder (internal box)
+
+7	Work process modelling
+--> Link to box doc (internal box)
+
+8	Data models finalised (specify/describe level of maturity in % as well as in words)
+--> Link to UML or other data model description on conceptual level (internal box)
+--> Link to schema definition file (internal box)
+
+9	Data transformation processes (specify/describe level of maturity in % as well as in words)
+--> Tools applied, brief description which processing step takes place with which tool
+--> Status of transformation processes (current status, lessons learnt, open questions)
+
+10	Transformed data quality checks (specify methodologies applied and results)
+
+11  Assessing and harmonize/extending data models completed
+--> Link to UML or other data model description on conceptual level (internal box)
+--> Link to schema definition file (internal box)
+--> Link to test data (internal box)
+
+12	Optimize the semi automation process of the data harmonisation
+--> Describe open issues / bugs of existing FME Tools such as HaleStudio, FME or other
+--> Suggest new methods that could support semi automation data harmonisation that come to your mind 
+
+13	Data harmonisation process
+--> Describe the current status of your data harmonisation process.(current status, lessons learnt, open questions)
+
